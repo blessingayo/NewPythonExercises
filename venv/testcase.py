@@ -1,0 +1,5 @@
+hello_str = "hello world" ;print(hello_str[0:11:2])
+hello_str ="hello world";print(hello_str[3:-2])
+Hello_str = "hello"; print(Hello_str)
+hello_str = "hello world";print(hello_str[:0:-1])
+a_str = "hello";a_str[1] = "r";print(a_str)
